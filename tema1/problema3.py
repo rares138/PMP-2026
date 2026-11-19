@@ -23,6 +23,6 @@ deviatia = np.std(X)
 print("Media estimata a lui X:", media)
 print("Deviatia standard a lui X:", deviatia)
 
-# az.plot_kde(X)
+az.plot_kde(X)
 
-# plt.show()
+plt.show()
